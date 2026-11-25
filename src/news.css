@@ -1,0 +1,25 @@
+/* Styles specific to the News module (imported only inside src/pages/News.jsx). */
+
+.news-demo-badge {
+  margin-top: 8px;
+}
+
+.news-filter-tabs {
+  margin-bottom: 18px;
+}
+
+.news-card {
+  gap: 8px;
+}
+
+.news-date {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #64748b;
+}
+
+.news-summary {
+  font-size: 0.92rem;
+  color: #475569;
+  line-height: 1.6;
+}
